@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://github.com/kongaevans/100-Days-Of-ML-Code/blob/master/Data_preprocessing/Data-Preprocessing.jpg">
+</p>
+
+
+
 ## The most important introductory part in Machine Learning is data preprocessing, we shall follow the following steps to preprocess our data.
 
 # Step1: Importing the necessary dependencies
